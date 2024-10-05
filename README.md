@@ -1,4 +1,4 @@
-Currently, the project has been setup to run within windows using local host. Right now it is a template document, with links to other UI, form, and utility elements with extension functionalities to implement.
+Currently, the project has been setup to run within windows using local host. Right now it is a Blazorise document with links to other UI, form, and utility elements with the possibility of extension functionalities to be implemented.
 To run the project: 
 1. Download the entire file.
 2. Once opened in visual studio, naviate to the "Pages" folder and double click "Dashboard.razor"
